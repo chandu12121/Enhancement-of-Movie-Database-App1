@@ -1,0 +1,28 @@
+.movie-card-image {
+  width: 100%;
+  max-width: 230px;
+  height: 280px;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+  padding-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.movie-title {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #032541;
+}
+
+.movie-rating {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #83cca6;
+}
